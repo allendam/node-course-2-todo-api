@@ -251,5 +251,3 @@ describe('POST /users', () => {
            .end(done);
    });
 });
-
-//expect().toNotBe() doesn't work expect().not.toBe()
